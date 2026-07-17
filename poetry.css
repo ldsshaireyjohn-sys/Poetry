@@ -33,7 +33,7 @@ p{
 
 @media (max-width: 600px){
 	body{
-		font-size: 10px;
+		font-size: 0.5rem;
 		line-height: 1;
 		padding: 30px 5%;
 	}
