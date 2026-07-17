@@ -34,11 +34,11 @@ p{
 @media (max-width: 600px){
 	h1{
 		font-size: 1.2rem;
-		padding:15%;
+		padding:20%;
 	}
 
 	p{
-		font-size: 0.75rem;
+		font-size: 0.95rem;
 		line-height: 1.4;
 		padding:0 5%;
 	}
